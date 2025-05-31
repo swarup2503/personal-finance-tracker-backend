@@ -78,9 +78,8 @@ finance-tracker-backend/
    Create a `.env` file in the root directory:
    ```env
    # Database
-   MONGO_URI=mongodb://localhost:27017/finance-tracker
-   # or for MongoDB Atlas:
-   # MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/finance-tracker
+   MONGO_URI=your-database-uri
+   
 
    # JWT Secret (use a strong random string)
    JWT_SECRET=your-super-secret-jwt-key
