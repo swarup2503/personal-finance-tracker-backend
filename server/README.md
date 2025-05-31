@@ -232,7 +232,7 @@ GET /api/transactions/export/pdf
 }
 ```
 
-## ⏰ Automated Daily Reports
+## Automated Daily Reports
 
 The application automatically sends daily email reports to all users containing:
 - Transaction summary (balance, total income, total expenses)
@@ -278,7 +278,7 @@ PORT=5000
 - **Environment Variables**: Sensitive data protection
 
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
